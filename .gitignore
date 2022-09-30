@@ -4,6 +4,9 @@
 # environment variables
 .env.local
 
+# package-lock
+package-lock.json
+
 # Logs
 logs
 *.log
